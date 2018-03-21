@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Drawer Menu</string>
+
+    <string name="menu_aberto">Menu aberto</string>
+    <string name="menu_fechado">Menu fechado</string>
+</resources>
